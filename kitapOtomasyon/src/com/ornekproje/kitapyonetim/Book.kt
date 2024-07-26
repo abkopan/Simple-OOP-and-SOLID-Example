@@ -7,6 +7,6 @@ open class Book( // Temel sınıf burada kitapların özellikleri yer alıyor. A
     val publishedYear: Int
 ){
     override fun toString(): String {
-        return "$title by ${author.name}, ISBN: $isbn, Published Year: $publishedYear"
+        return "$title by ${author.name}, ISBN: $isbn, Yayımlanma Yılı: $publishedYear"
     }
 }

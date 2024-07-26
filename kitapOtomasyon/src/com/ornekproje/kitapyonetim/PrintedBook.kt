@@ -10,6 +10,6 @@ class PrintedBook ( // Book sınıfından üretilmiştir ve onun özelliklerini 
     val weight: Double
 ) : Book(title, author, isbn, publishedYear){
     override fun toString(): String {
-        return "${super.toString()}, Weight: $weight kg"
+        return "${super.toString()}, Ağırlık: $weight kg"
     }
 }

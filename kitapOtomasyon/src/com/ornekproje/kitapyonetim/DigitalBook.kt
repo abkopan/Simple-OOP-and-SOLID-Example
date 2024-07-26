@@ -10,6 +10,6 @@ class DigitalBook ( // Book sınıfından üretilmiştir ve onun özelliklerini 
     val fileSize: Double
 ) : Book(title, author, isbn, publishedYear){
     override fun toString(): String {
-        return "${super.toString()}, File Size: $fileSize MB"
+        return "${super.toString()}, Dosya Boyutu: $fileSize MB"
     }
 }
