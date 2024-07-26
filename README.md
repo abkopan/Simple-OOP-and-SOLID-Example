@@ -73,6 +73,6 @@ Kitap Yönetim Sistemi:
 2. Kitapları Listele
 3. Kitap Ara
 4. Çıkış
-Bir seçenek girin (1/2/3/4): 2
+Seçiminizi yapın (1-4): 2
 Kütüphanedeki Kitaplar:
 1984 - George Orwell, ISBN: 1234567890, Yayın Yılı: 1949, Ağırlık: 0.5 kg
